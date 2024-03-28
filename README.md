@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jonathan, a server hardware necromancer, currently at AWS. Sometimes an automation artisan and professionally curious.
+I'm Jonathan, a server hardware necromancer, currently at AWS. Sometimes an automation artisan. Professionally curious.
 
 <!--
 **last-dev/last-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
